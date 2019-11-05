@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw9</string>
+    <string name="bingo">Excellent! 花了</string>
+    <string name="TEXTVIEW">猜數字遊戲</string>
+</resources>
